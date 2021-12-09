@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: Bebas;
-  src: url("../fonts/BebasKai-Regular.otf");
+  src: url("./fonts/BebasKai-Regular.otf");
 }
 
 * {
@@ -60,42 +60,42 @@ a {
 }
 
 .sky {
-  background: url("../img/sky.png") no-repeat center;
+  background: url("./img/sky.png") no-repeat center;
   background-size: cover;
   transform: translateZ(-600px) scale(3);
   z-index: 1;
 }
 
 .landscape1 {
-  background: url("../img/landscape1.png") no-repeat center;
+  background: url("./img/landscape1.png") no-repeat center;
   background-size: cover;
   transform: translateZ(-525px) scale(2.75);
   z-index: 2;
 }
 
 .landscape2 {
-  background: url("../img/landscape2.png") no-repeat center;
+  background: url("./img/landscape2.png") no-repeat center;
   background-size: cover;
   transform: translateZ(-400px) scale(2.33333333);
   z-index: 3;
 }
 
 .landscape3 {
-  background: url("../img/landscape3.png") no-repeat center;
+  background: url("./img/landscape3.png") no-repeat center;
   background-size: cover;
   transform: translateZ(-250px) scale(1.833333333);
   z-index: 4;
 }
 
 .landscape4 {
-  background: url("../img/landscape4.png") no-repeat center;
+  background: url("./img/landscape4.png") no-repeat center;
   background-size: cover;
   transform: translateZ(-125px) scale(1.4167);
   z-index: 5;
 }
 
 .trees {
-  background: url("../img/trees.png") no-repeat center;
+  background: url("./img/trees.png") no-repeat center;
   background-size: cover;
   transform: translateZ(0) scale(1);
   z-index: 6;
